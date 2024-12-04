@@ -1,0 +1,12 @@
+{
+  "HOME": "/",
+  "USERS": "/users",
+  "API_USER": "/api/users",
+  "UPLOAD": "/upload",
+  "FILTER_USERS": "/filters",
+  "USER": "/:userID",
+  "LOGIN": "/login",
+  "SIGNUP": "/signup",
+  "DASHBOARD": "/dashboard",
+  "LOGOUT": "/logout"
+}
